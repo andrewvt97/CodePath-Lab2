@@ -9,7 +9,7 @@ App where user can add their own questions
 `TODO://` App that switches between flashcard app and an answer screen and allows the user to add their own questions
 
 ### App Walk-though
-<img src="https://media2.giphy.com/media/F09DXT7GtfxaQRbsrJ/giphy.gif?cid=790b7611a92887b10d95954b37465a6b5fcb04c191e883e6&rid=giphy.gif&ct=g" width=200><br>
+<img src="https://media0.giphy.com/media/bq8ZSsTVyXW5dEeMWL/giphy.gif?cid=790b76119dab2d6db3564c7b41da274838eb0b0ebfe76663&rid=giphy.gif&ct=g" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
